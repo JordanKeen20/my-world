@@ -18,6 +18,14 @@ P {
 }
 
 h3 {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     color: #f81717;
+}
+
+img1 {
+    height: 400px;
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  width: 400px;
 }
