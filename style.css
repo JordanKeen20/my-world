@@ -9,6 +9,7 @@ body{
 h1, h2 {
     font-family: 'Times New Roman', Times, serif;
     color: #00ffff;
+    position: relative;
 }
 
 
@@ -22,10 +23,3 @@ h3 {
     color: #f81717;
 }
 
-img1 {
-    height: 400px;
-  margin: 0 auto;
-  position: relative;
-  text-align: center;
-  width: 400px;
-}
