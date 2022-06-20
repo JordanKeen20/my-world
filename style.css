@@ -8,5 +8,16 @@ body{
 
 h1, h2 {
     font-family: 'Times New Roman', Times, serif;
-    color: aqua;
+    color: #00ffff;
+}
+
+
+P {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #00ffff
+}
+
+h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #f81717;
 }
